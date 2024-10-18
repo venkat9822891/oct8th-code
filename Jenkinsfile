@@ -1,3 +1,4 @@
+## added slave configuration
 node('slave1') {
     stage('Download the code from git') 
                {
